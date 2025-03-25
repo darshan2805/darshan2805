@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @darshan2805
-- 👀 I’m interested in Cloud, Full Stack Dev, AI, and DevOps
-- 🌱 I’m currently learning DevOps
-- 💞️ I’m looking to collaborate
+- 👀 I’m interested in AI, Full Stack Dev, Cloud, and DevOps
+- 🌱 I’m currently learning AI
+- 💞️ I’m looking for AI and Full Stack opportunities
 - 📫 reach me ...darshans2805@gmail.com
 
 <!---
