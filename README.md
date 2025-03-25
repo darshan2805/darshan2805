@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @darshan2805
-- 👀 I’m interested in Cloud, DevOps and Web Dev
+- 👀 I’m interested in Cloud, Full Stack Dev, AI, and DevOps
 - 🌱 I’m currently learning DevOps
 - 💞️ I’m looking to collaborate
 - 📫 reach me ...darshans2805@gmail.com
